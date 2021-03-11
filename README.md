@@ -74,7 +74,7 @@ The code is licensed under the MIT license.
 If you use this code for scientific purposes, please cite the following papers:
 
 ```BibTeX
-@inproceedings{beclskis2020features,
+@inproceedings{belskis2020features,
   title={Features and Methods for Automatic Posting Account Classification},
   author={Be{\c{l}}skis, Zigmunds and Zirne, Marita and Pinnis, M{\=a}rcis},
   booktitle={International Baltic Conference on Databases and Information Systems},
@@ -86,7 +86,7 @@ If you use this code for scientific purposes, please cite the following papers:
 
 To be published in 2021 (the paper the code was adapted for):
 ```BibTeX
-@article{Belskis2021,
+@article{belskis2021,
   author = {Beļskis, Zigmunds and Zirne, Marita and Slaidiņ{\v{s}}, Viesturs and Pinnis, Mārcis},
   journal = {Baltic Journal of Modern Computing},
   title = {{Natural Language Based Posting Account Classification}},
